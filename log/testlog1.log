@@ -1,0 +1,304 @@
+2022-10-11 22:04:05,324 [main] INFO inetbanking - ******URL opened*********
+2022-10-11 22:04:05,982 [main] INFO inetbanking - *********Username entered******
+2022-10-11 22:04:06,177 [main] INFO inetbanking - ********password entered************
+2022-10-11 22:04:08,179 [main] INFO inetbanking - *********login successful********
+2022-10-11 22:04:08,199 [main] INFO inetbanking - Test passed
+2022-10-11 22:17:16,249 [main] INFO inetbanking - ******URL opened*********
+2022-10-11 22:17:16,516 [main] INFO inetbanking - *********Username entered******
+2022-10-11 22:17:16,732 [main] INFO inetbanking - ********password entered************
+2022-10-11 22:17:19,931 [main] INFO inetbanking - *********login successful********
+2022-10-11 22:17:19,950 [main] INFO inetbanking - Test passed
+2022-10-11 22:32:53,978 [main] INFO inetbanking - ******URL opened*********
+2022-10-11 22:32:54,589 [main] INFO inetbanking - *********Username entered******
+2022-10-11 22:32:54,741 [main] INFO inetbanking - ********password entered************
+2022-10-11 22:32:56,945 [main] INFO inetbanking - *********login successful********
+2022-10-12 17:27:27,454 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 17:27:28,816 [main] INFO inetbanking - *********Username entered******
+2022-10-12 17:27:29,083 [main] INFO inetbanking - ********password entered************
+2022-10-12 17:27:30,811 [main] INFO inetbanking - *********login successful********
+2022-10-12 17:27:30,868 [main] INFO inetbanking - ************Test passed**************
+2022-10-12 18:32:12,180 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 18:32:13,848 [main] INFO inetbanking - *********Username entered******
+2022-10-12 18:32:14,079 [main] INFO inetbanking - ********password entered************
+2022-10-12 18:32:16,287 [main] INFO inetbanking - *********login successful********
+2022-10-12 18:32:16,301 [main] INFO inetbanking - ************Test passed**************
+2022-10-12 18:32:26,108 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 18:32:26,477 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 18:32:26,753 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 18:32:29,161 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-12 18:32:30,590 [main] INFO inetbanking - ********LOGOUT SUCCESSFUL***********
+2022-10-12 18:32:32,006 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 18:32:32,372 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 18:32:32,595 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 18:32:33,735 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 18:32:35,700 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 18:32:36,288 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 18:32:36,479 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 18:32:37,738 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 18:32:40,162 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 18:32:40,887 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 18:32:41,098 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 18:32:42,339 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 18:32:44,718 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 18:32:45,160 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 18:32:45,371 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 18:32:49,278 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-12 18:32:52,338 [main] INFO inetbanking - ********LOGOUT SUCCESSFUL***********
+2022-10-12 18:33:01,875 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 18:33:02,524 [main] INFO inetbanking - ********USERNAME ENTERED***********
+2022-10-12 18:33:02,981 [main] INFO inetbanking - *******PASSWORD ENTERED***********
+2022-10-12 18:33:05,382 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-12 18:33:05,937 [main] INFO inetbanking - ********CLICKED TO ADD NEW CUSTOMER***********
+2022-10-12 18:33:09,733 [main] INFO inetbanking - ********NAMED ADDED***********
+2022-10-12 18:33:09,931 [main] INFO inetbanking - ********GENDER ADDED***********
+2022-10-12 18:33:10,240 [main] INFO inetbanking - *******DATE OF BIRTH ADDED***********
+2022-10-12 18:33:10,473 [main] INFO inetbanking - ********ADDRESS ADDED***********
+2022-10-12 18:33:10,653 [main] INFO inetbanking - ********CITY ADDED***********
+2022-10-12 18:33:10,802 [main] INFO inetbanking - *******STATE ADDED***********
+2022-10-12 18:33:11,145 [main] INFO inetbanking - ********PHONE AND PIN ADDED***********
+2022-10-12 18:33:11,372 [main] INFO inetbanking - ********EMAIL ENTERED***********
+2022-10-12 18:33:12,391 [main] INFO inetbanking - ********SUBMITTED SUCCESFULLY***********
+2022-10-12 18:38:37,932 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 18:38:38,550 [main] INFO inetbanking - *********Username entered******
+2022-10-12 18:38:38,763 [main] INFO inetbanking - ********password entered************
+2022-10-12 18:38:40,922 [main] INFO inetbanking - *********login successful********
+2022-10-12 18:54:31,053 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 18:54:32,467 [main] INFO inetbanking - *********Username entered******
+2022-10-12 18:54:32,655 [main] INFO inetbanking - ********password entered************
+2022-10-12 18:54:35,259 [main] INFO inetbanking - *********login successful********
+2022-10-12 21:20:42,214 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 21:20:43,200 [main] INFO inetbanking - *********Username entered******
+2022-10-12 21:20:43,418 [main] INFO inetbanking - ********password entered************
+2022-10-12 21:20:45,455 [main] INFO inetbanking - *********login successful********
+2022-10-12 21:20:53,764 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:20:54,021 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:20:54,184 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:20:56,272 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-12 21:20:57,325 [main] INFO inetbanking - ********LOGOUT SUCCESSFUL***********
+2022-10-12 21:20:58,608 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:20:58,980 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:20:59,174 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:20:59,645 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 21:21:00,912 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:21:01,236 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:21:01,412 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:21:02,373 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 21:21:03,973 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:21:04,526 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:21:04,714 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:21:05,946 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 21:21:07,441 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:21:07,590 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:21:07,724 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:21:10,422 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-12 21:21:12,336 [main] INFO inetbanking - ********LOGOUT SUCCESSFUL***********
+2022-10-12 21:21:19,584 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:21:20,662 [main] INFO inetbanking - ********USERNAME ENTERED***********
+2022-10-12 21:21:20,824 [main] INFO inetbanking - *******PASSWORD ENTERED***********
+2022-10-12 21:21:22,871 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-12 21:21:23,415 [main] INFO inetbanking - ********CLICKED TO ADD NEW CUSTOMER***********
+2022-10-12 21:21:28,979 [main] INFO inetbanking - ********NAMED ADDED***********
+2022-10-12 21:21:29,346 [main] INFO inetbanking - ********GENDER ADDED***********
+2022-10-12 21:21:29,601 [main] INFO inetbanking - *******DATE OF BIRTH ADDED***********
+2022-10-12 21:21:29,768 [main] INFO inetbanking - ********ADDRESS ADDED***********
+2022-10-12 21:21:29,884 [main] INFO inetbanking - ********CITY ADDED***********
+2022-10-12 21:21:30,007 [main] INFO inetbanking - *******STATE ADDED***********
+2022-10-12 21:21:30,255 [main] INFO inetbanking - ********PHONE AND PIN ADDED***********
+2022-10-12 21:21:30,406 [main] INFO inetbanking - ********EMAIL ENTERED***********
+2022-10-12 21:21:31,496 [main] INFO inetbanking - ********SUBMITTED SUCCESFULLY***********
+2022-10-12 21:24:09,398 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:24:09,654 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:24:09,869 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:24:10,871 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 21:24:12,173 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:24:12,861 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:24:13,033 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:24:13,487 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 21:24:15,700 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-12 21:24:16,132 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-12 21:24:16,312 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-12 21:24:17,502 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-12 21:24:24,362 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 21:24:25,567 [main] INFO inetbanking - *********Username entered******
+2022-10-12 21:24:25,763 [main] INFO inetbanking - ********password entered************
+2022-10-12 21:24:27,766 [main] INFO inetbanking - *********login successful********
+2022-10-12 22:18:57,857 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 22:18:58,790 [main] INFO inetbanking - *********Username entered******
+2022-10-12 22:18:59,064 [main] INFO inetbanking - ********password entered************
+2022-10-12 22:19:00,904 [main] INFO inetbanking - *********login successful********
+2022-10-12 22:20:37,467 [main] INFO inetbanking - ******URL opened*********
+2022-10-12 22:20:37,896 [main] INFO inetbanking - *********Username entered******
+2022-10-12 22:20:38,329 [main] INFO inetbanking - ********password entered************
+2022-10-12 22:20:41,408 [main] INFO inetbanking - *********login successful********
+2022-10-18 01:32:54,231 [main] INFO inetbanking - ******URL opened*********
+2022-10-18 01:32:54,931 [main] INFO inetbanking - *********Username entered******
+2022-10-18 01:32:55,090 [main] INFO inetbanking - ********password entered************
+2022-10-18 01:32:55,705 [main] INFO inetbanking - *********login successful********
+2022-10-18 01:33:04,455 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 01:33:04,659 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 01:33:04,879 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 01:33:06,525 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 01:33:09,113 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 01:33:09,573 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 01:33:09,738 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 01:33:10,258 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 01:33:11,672 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 01:33:12,103 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 01:33:12,269 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 01:33:12,728 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 01:33:14,501 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 01:33:14,696 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 01:33:14,865 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 01:33:15,343 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 01:33:16,850 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 01:33:17,282 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 01:33:17,440 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 01:33:18,702 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 01:33:28,130 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 01:33:28,392 [main] INFO inetbanking - ********USERNAME ENTERED***********
+2022-10-18 01:33:28,698 [main] INFO inetbanking - *******PASSWORD ENTERED***********
+2022-10-18 01:33:30,420 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 01:33:30,829 [main] INFO inetbanking - ********CLICKED TO ADD NEW CUSTOMER***********
+2022-10-18 01:33:42,033 [main] INFO inetbanking - ********NAMED ADDED***********
+2022-10-18 01:33:42,167 [main] INFO inetbanking - ********GENDER ADDED***********
+2022-10-18 01:33:42,391 [main] INFO inetbanking - *******DATE OF BIRTH ADDED***********
+2022-10-18 01:33:42,523 [main] INFO inetbanking - ********ADDRESS ADDED***********
+2022-10-18 01:33:42,616 [main] INFO inetbanking - ********CITY ADDED***********
+2022-10-18 01:33:42,712 [main] INFO inetbanking - *******STATE ADDED***********
+2022-10-18 01:33:42,912 [main] INFO inetbanking - ********PHONE AND PIN ADDED***********
+2022-10-18 01:33:43,050 [main] INFO inetbanking - ********EMAIL ENTERED***********
+2022-10-18 01:33:43,628 [main] INFO inetbanking - ********SUBMITTED SUCCESFULLY***********
+2022-10-18 02:12:14,611 [main] INFO inetbanking - ******URL opened*********
+2022-10-18 02:12:15,398 [main] INFO inetbanking - *********Username entered******
+2022-10-18 02:12:15,626 [main] INFO inetbanking - ********password entered************
+2022-10-18 02:12:17,408 [main] INFO inetbanking - *********login successful********
+2022-10-18 02:12:17,420 [main] INFO inetbanking - ************Test passed**************
+2022-10-18 02:12:26,047 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:12:26,252 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:12:26,441 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:12:28,523 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:12:31,095 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:12:31,721 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:12:31,891 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:12:32,331 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:12:34,002 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:12:34,175 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:12:34,349 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:12:35,292 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:12:36,763 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:12:37,144 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:12:37,324 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:12:37,763 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:12:46,161 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:12:46,559 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:12:46,703 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:12:48,413 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:12:56,444 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:12:57,550 [main] INFO inetbanking - ********USERNAME ENTERED***********
+2022-10-18 02:12:57,731 [main] INFO inetbanking - *******PASSWORD ENTERED***********
+2022-10-18 02:12:59,964 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:13:00,520 [main] INFO inetbanking - ********CLICKED TO ADD NEW CUSTOMER***********
+2022-10-18 02:13:03,543 [main] INFO inetbanking - ********NAMED ADDED***********
+2022-10-18 02:13:03,653 [main] INFO inetbanking - ********GENDER ADDED***********
+2022-10-18 02:13:03,880 [main] INFO inetbanking - *******DATE OF BIRTH ADDED***********
+2022-10-18 02:13:04,022 [main] INFO inetbanking - ********ADDRESS ADDED***********
+2022-10-18 02:13:04,134 [main] INFO inetbanking - ********CITY ADDED***********
+2022-10-18 02:13:04,240 [main] INFO inetbanking - *******STATE ADDED***********
+2022-10-18 02:13:04,457 [main] INFO inetbanking - ********PHONE AND PIN ADDED***********
+2022-10-18 02:13:04,594 [main] INFO inetbanking - ********EMAIL ENTERED***********
+2022-10-18 02:13:05,598 [main] INFO inetbanking - ********SUBMITTED SUCCESFULLY***********
+2022-10-18 02:31:11,373 [main] INFO inetbanking - ******URL opened*********
+2022-10-18 02:31:12,464 [main] INFO inetbanking - *********Username entered******
+2022-10-18 02:31:12,678 [main] INFO inetbanking - ********password entered************
+2022-10-18 02:31:14,186 [main] INFO inetbanking - *********login successful********
+2022-10-18 02:31:14,202 [main] INFO inetbanking - ************Test passed**************
+2022-10-18 02:31:21,767 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:31:21,974 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:31:22,180 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:31:23,659 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:31:26,657 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:31:27,144 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:31:27,336 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:31:28,167 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:31:29,559 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:31:30,024 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:31:30,198 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:31:30,682 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:31:32,662 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:31:33,055 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:31:33,219 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:31:33,726 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:31:35,345 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:31:35,518 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:31:35,691 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:31:37,512 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:31:45,473 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:31:46,501 [main] INFO inetbanking - ********USERNAME ENTERED***********
+2022-10-18 02:31:46,673 [main] INFO inetbanking - *******PASSWORD ENTERED***********
+2022-10-18 02:31:48,210 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:31:48,515 [main] INFO inetbanking - ********CLICKED TO ADD NEW CUSTOMER***********
+2022-10-18 02:31:56,448 [main] INFO inetbanking - ********NAMED ADDED***********
+2022-10-18 02:31:56,522 [main] INFO inetbanking - ********GENDER ADDED***********
+2022-10-18 02:31:56,870 [main] INFO inetbanking - *******DATE OF BIRTH ADDED***********
+2022-10-18 02:31:57,043 [main] INFO inetbanking - ********ADDRESS ADDED***********
+2022-10-18 02:31:57,147 [main] INFO inetbanking - ********CITY ADDED***********
+2022-10-18 02:31:57,239 [main] INFO inetbanking - *******STATE ADDED***********
+2022-10-18 02:31:57,427 [main] INFO inetbanking - ********PHONE AND PIN ADDED***********
+2022-10-18 02:31:57,586 [main] INFO inetbanking - ********EMAIL ENTERED***********
+2022-10-18 02:31:58,679 [main] INFO inetbanking - ********SUBMITTED SUCCESFULLY***********
+2022-10-18 02:32:59,796 [main] INFO inetbanking - ******URL opened*********
+2022-10-18 02:33:00,877 [main] INFO inetbanking - *********Username entered******
+2022-10-18 02:33:01,106 [main] INFO inetbanking - ********password entered************
+2022-10-18 02:33:03,268 [main] INFO inetbanking - *********login successful********
+2022-10-18 02:33:03,287 [main] INFO inetbanking - ************Test passed**************
+2022-10-18 02:33:10,982 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:33:11,245 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:33:11,470 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:33:13,130 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:33:15,409 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:33:15,832 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:33:15,991 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:33:16,444 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:33:17,920 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:33:18,249 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:33:18,414 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:33:18,871 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:33:20,972 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:33:21,368 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:33:21,526 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:33:22,511 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 02:33:23,826 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:33:24,254 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 02:33:24,414 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 02:33:25,614 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:33:33,450 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 02:33:34,420 [main] INFO inetbanking - ********USERNAME ENTERED***********
+2022-10-18 02:33:34,619 [main] INFO inetbanking - *******PASSWORD ENTERED***********
+2022-10-18 02:33:36,136 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 02:33:36,523 [main] INFO inetbanking - ********CLICKED TO ADD NEW CUSTOMER***********
+2022-10-18 02:33:39,870 [main] INFO inetbanking - ********NAMED ADDED***********
+2022-10-18 02:33:39,968 [main] INFO inetbanking - ********GENDER ADDED***********
+2022-10-18 02:33:40,209 [main] INFO inetbanking - *******DATE OF BIRTH ADDED***********
+2022-10-18 02:33:40,364 [main] INFO inetbanking - ********ADDRESS ADDED***********
+2022-10-18 02:33:40,461 [main] INFO inetbanking - ********CITY ADDED***********
+2022-10-18 02:33:40,564 [main] INFO inetbanking - *******STATE ADDED***********
+2022-10-18 02:33:40,926 [main] INFO inetbanking - ********PHONE AND PIN ADDED***********
+2022-10-18 02:33:41,060 [main] INFO inetbanking - ********EMAIL ENTERED***********
+2022-10-18 02:33:41,580 [main] INFO inetbanking - ********SUBMITTED SUCCESFULLY***********
+2022-10-18 03:10:49,043 [main] INFO inetbanking - ******URL opened*********
+2022-10-18 03:10:49,819 [main] INFO inetbanking - *********Username entered******
+2022-10-18 03:10:50,001 [main] INFO inetbanking - ********password entered************
+2022-10-18 03:10:51,586 [main] INFO inetbanking - *********login successful********
+2022-10-18 03:10:51,600 [main] INFO inetbanking - ************Test passed**************
+2022-10-18 03:10:59,321 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 03:10:59,711 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 03:10:59,886 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 03:11:01,361 [main] INFO inetbanking - ********LOGIN SUCCESSFUL***********
+2022-10-18 03:11:03,918 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 03:11:04,317 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 03:11:04,476 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 03:11:04,954 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
+2022-10-18 03:11:06,359 [main] INFO inetbanking - ********URL OPENED***********
+2022-10-18 03:11:06,493 [main] INFO inetbanking - ********USERNAME ADDED***********
+2022-10-18 03:11:06,874 [main] INFO inetbanking - ********PASSWORD ENTERED***********
+2022-10-18 03:11:07,383 [main] INFO inetbanking - ********ALERT PRESENT WRONT CREDENTIALS***********
